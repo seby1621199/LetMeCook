@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetMeCook", "LetMeCook\LetMeCook.csproj", "{D3298393-BA2C-4D76-AAA3-76C7CEABF5E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{40BD14B7-E8B6-4F2F-915D-C1490DBAF3C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3298393-BA2C-4D76-AAA3-76C7CEABF5E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3298393-BA2C-4D76-AAA3-76C7CEABF5E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3298393-BA2C-4D76-AAA3-76C7CEABF5E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3298393-BA2C-4D76-AAA3-76C7CEABF5E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40BD14B7-E8B6-4F2F-915D-C1490DBAF3C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40BD14B7-E8B6-4F2F-915D-C1490DBAF3C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40BD14B7-E8B6-4F2F-915D-C1490DBAF3C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40BD14B7-E8B6-4F2F-915D-C1490DBAF3C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8096EC3C-00AE-45E9-BA4D-59902718D456}
+	EndGlobalSection
+EndGlobal
